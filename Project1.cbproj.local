@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/10/17 19:07:49.000.380,=C:\Users\kitty\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2021/10/17 19:07:49.000.078,=C:\Users\kitty\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2021/11/28 13:04:36.000.960,=C:\Users\kitty\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2021/11/28 13:04:36.000.680,=C:\Users\kitty\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2022/03/13 13:07:20.000.800,=C:\Users\kitty\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2022/03/13 13:07:20.000.413,=C:\Users\kitty\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2022/03/15 21:24:52.000.038,C:\Users\kitty\Documents\Embarcadero\Studio\二下\HW1_09360423_蔣亞軒\Unit1.h=C:\Users\kitty\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2022/03/15 21:24:52.000.038,C:\Users\kitty\Documents\Embarcadero\Studio\二下\HW1_09360423_蔣亞軒\Unit1.dfm=C:\Users\kitty\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2022/03/15 21:24:52.000.038,C:\Users\kitty\Documents\Embarcadero\Studio\二下\HW1_09360423_蔣亞軒\Unit1.cpp=C:\Users\kitty\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2022/03/15 21:24:54.000.675,C:\Users\kitty\Documents\Embarcadero\Studio\二下\HW1_09360423_蔣亞軒\Project1PCH1.h=C:\Users\kitty\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2022/03/15 21:24:57.000.603,C:\Users\kitty\Documents\Embarcadero\Studio\二下\HW1_09360423_蔣亞軒\Project1.cbproj=C:\Users\kitty\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>2022/03/27 01:43:34.000.260,C:\Users\kitty\Documents\Embarcadero\Studio\二下\HW1_09360423_蔣亞軒\Project1.cbproj=C:\Users\kitty\Documents\Embarcadero\Studio\二下\HW2_09360423_蔣亞軒\Project1.cbproj</Transaction>
+    <Transaction>2022/03/27 15:24:04.000.001,=C:\Users\kitty\Desktop\GifImage\GifImage.hpp</Transaction>
+    <Transaction>2022/03/27 15:24:04.000.045,=C:\Users\kitty\Desktop\GifImage\GifImage.pas</Transaction>
+    <Transaction>2022/03/30 23:03:27.000.400,C:\Users\kitty\Documents\Embarcadero\Studio\二下\HW2_09360423_蔣亞軒\Project1.cbproj=C:\Users\kitty\Documents\Embarcadero\Studio\二下\HW2_09360423_蔣亞軒\Project1.cbproj</Transaction>
+    <Transaction>2022/03/30 23:09:42.000.897,C:\Users\kitty\Documents\Embarcadero\Studio\二下\HW2_09360423_蔣亞軒\Project1.cbproj=C:\Users\kitty\Documents\Embarcadero\Studio\二下\HW2_09360423_蔣亞軒\Project1.cbproj</Transaction>
+    <Transaction>2022/03/30 23:10:00.000.127,C:\Users\kitty\Documents\Embarcadero\Studio\二下\HW1_09360423_蔣亞軒\Unit1.dfm=C:\Users\kitty\Documents\Embarcadero\Studio\二下\HW2_09360423_蔣亞軒\Unit1.dfm</Transaction>
+    <Transaction>2022/03/30 23:10:00.000.127,C:\Users\kitty\Documents\Embarcadero\Studio\二下\HW1_09360423_蔣亞軒\Unit1.h=C:\Users\kitty\Documents\Embarcadero\Studio\二下\HW2_09360423_蔣亞軒\Unit1.h</Transaction>
+    <Transaction>2022/03/30 23:10:00.000.127,C:\Users\kitty\Documents\Embarcadero\Studio\二下\HW1_09360423_蔣亞軒\Unit1.cpp=C:\Users\kitty\Documents\Embarcadero\Studio\二下\HW2_09360423_蔣亞軒\Unit1.cpp</Transaction>
+  </Transactions>
+</BorlandProject>
